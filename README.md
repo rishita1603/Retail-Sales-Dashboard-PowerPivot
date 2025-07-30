@@ -48,4 +48,4 @@ This is a practice project; the dataset has limited rows and was manually create
 No Cost or Profit column was available; the focus was purely on relationships, not financial KPIs.
 
 
-![Retail-Sales-Dashboard-PowerPivot].()
+![Retail-Sales-Dashboard-PowerPivot].(PowerPivot%20Practice.png)
